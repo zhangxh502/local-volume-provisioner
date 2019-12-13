@@ -1,1 +1,1 @@
-FROM quay.io/external_storage/local-volume-provisioner:v2.3.2-arm64
+FROM quay.io/external_storage/local-volume-provisioner-arm64:v2.3.2
